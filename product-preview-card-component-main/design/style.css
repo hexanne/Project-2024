@@ -1,0 +1,161 @@
+body {
+margin:0;
+padding:0;
+height:auto;
+background:hsl(30, 38%, 92%);
+}
+.attribution {
+font-size: 11px; 
+text-align: center; 
+}
+.attribution a {
+color: hsl(228, 45%, 44%); 
+}
+// <uniquifier>: Use a unique and descriptive class name
+// <weight>: Use a value from 100 to 900
+
+.fraunces-price {
+  font-family: "Fraunces", serif;
+  font-optical-sizing: auto;
+  font-weight: <weight>;
+  font-style: normal;
+  font-variation-settings:
+    "SOFT" 0,
+    "WONK" 0;
+}
+    
+@media screen and (min-width: 320px) and (max-width:768px) {
+.container {
+width:90%;
+height:50%;
+margin:5%;
+border-radius:20px;
+background:hsl(0, 0%, 100%);
+}
+.brandImage {
+width:100%;
+height:230px;
+border-radius:20px 20px 0px 0px;
+background:url('../images/image-product-mobile.jpg');
+background-size:100% 100%;
+background-repeat:no-repeat;
+}
+.info {
+width:90%;
+padding:5%;
+height:auto;
+}
+.info>h1 {
+font-family:Montserrat;
+}
+.info>h3 {
+color:hsl(228, 12%, 48%);
+text-transform:uppercase;
+}
+.info>p {
+font-size:14px;
+color:hsl(228, 12%, 48%);
+}
+.cartBtn {
+width:100%;
+padding:5%;
+margin:5% 0%;
+background:hsl(158, 36%, 37%);
+color:hsl(0, 0%, 100%);
+font-weight:700;
+font-size:20px;
+border-radius:12px;
+border:none;
+display:flex;
+justify-content:center;
+gap:12px;
+cursor:pointer;
+}
+.cartBtn:active {
+cursor:pointer;
+background:hsl(212, 21%, 14%);
+}
+.newPrice {
+color:hsl(158, 36%, 37%);
+font-size:30px;
+font-weight:700;
+}
+.oldPrice {
+color:hsl(228, 12%, 48%);
+text-decoration:line-through;
+}
+.icon {
+width:20px;
+height:20px;
+}}
+
+@media screen and (min-width: 1024px) and (max-width:2560px) {
+.container {
+width:70%;
+height:50%;
+margin:10%;
+border-radius:20px;
+background:hsl(0, 0%, 100%);
+display: flex;
+}
+.pic {
+width:100%;
+height:100%;
+}
+.brandImage {
+background: url('../images/image-product-desktop.jpg');
+background-size:100% 100%;
+width:100%;
+height:26pc;
+border-radius:20px 0px 0px 20px;
+}
+.info {
+width:90%;
+margin:5%;
+padding:0;
+height:auto;
+}
+.info>h1 {
+font-family:Montserrat;
+}
+.info>h3 {
+color:hsl(228, 12%, 48%);
+text-transform:uppercase;
+}
+.info>p {
+font-size:14px;
+color:hsl(228, 12%, 48%);
+}
+.cartBtn {
+width:80%;
+padding:5%;
+margin:5%;
+background:hsl(158, 36%, 37%);
+color:hsl(0, 0%, 100%);
+font-weight:700;
+font-size:20px;
+border-radius:12px;
+border:none;
+display:flex;
+justify-content:center;
+gap:12px;
+cursor:pointer;
+}
+.cartBtn:active {
+cursor:pointer;
+background:hsl(212, 21%, 14%);
+}
+.newPrice {
+color:hsl(158, 36%, 37%);
+font-size:30px;
+font-weight:700;
+}
+.oldPrice {
+color:hsl(228, 12%, 48%);
+text-decoration:line-through;
+}
+.icon {
+width:20px;
+height:20px;
+}
+}
