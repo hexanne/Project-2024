@@ -6,7 +6,8 @@ background:hsl(30, 38%, 92%);
 }
 .attribution {
 font-size: 11px; 
-text-align: center; 
+text-align: center;
+color:magenta;
 }
 .attribution a {
 color: hsl(228, 45%, 44%); 
