@@ -61,7 +61,7 @@ I would like to learn:-
 
 ## Author
 
-- Website - [Add your name here]https://www.your-site.com
+- Website - [Add your name here] {https://www.your-site.com}
 - Frontend Mentor - @hexanne https://www.frontendmentor.io/profile/hexanne
 - Facebook - @justin.steen.254 https://www.facebook.com/justin.steen.254
 - Github - @hexanne https://www.github.com/hexanne
