@@ -10,7 +10,7 @@ text-align: center;
 color:magenta;
 }
 .attribution a {
-color: hsl(228, 45%, 44%); 
+color: lime; 
 }
     
 @media screen and (min-width: 320px) and (max-width:768px) {
