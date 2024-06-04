@@ -26,7 +26,7 @@ Users should be able to:
 
 - Solution URL: W3Schools https://www.w3schools.com
 
-- Live Site URL: https://your-live-site-url.com
+- Live Site URL: https://product-preview-card-component-main-three-peach.vercel.app
 
 ## My process
 
@@ -68,4 +68,4 @@ I would like to learn:-
 - Telegram - @developerke https://t.me/developerke
 
 
-*******************************************************************************************************************THE END**********************************************************************************************************************************
+*****THE END******
