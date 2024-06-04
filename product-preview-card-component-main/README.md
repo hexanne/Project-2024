@@ -57,8 +57,6 @@ I would like to learn:-
    -how to design an E-commerce website
 
 
-**Note: Delete this note and the content within this section and replace with your own plans for continued development.**
-
 ## Author
 
 - Website - product-preview-card-component-main-three-peach.vercel.app https://product-preview-card-component-main-three-peach.vercel.app
