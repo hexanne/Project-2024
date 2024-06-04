@@ -11,18 +11,6 @@ text-align: center;
 .attribution a {
 color: hsl(228, 45%, 44%); 
 }
-// <uniquifier>: Use a unique and descriptive class name
-// <weight>: Use a value from 100 to 900
-
-.fraunces-price {
-  font-family: "Fraunces", serif;
-  font-optical-sizing: auto;
-  font-weight: <weight>;
-  font-style: normal;
-  font-variation-settings:
-    "SOFT" 0,
-    "WONK" 0;
-}
     
 @media screen and (min-width: 320px) and (max-width:768px) {
 .container {
