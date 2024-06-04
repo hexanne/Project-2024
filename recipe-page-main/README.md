@@ -15,8 +15,8 @@ This is a solution to the [Recipe page challenge on Frontend Mentor](https://www
 
 ### Links
 
-- Solution URL: [Add solution URL here](https://your-solution-url.com)
-- Live Site URL: [Add live site URL here](https://your-live-site-url.com)
+- Solution URL: https://w3Schools.com
+- Live Site URL: https://recipe-page-main-xi.vercel.app
 
 ## My process
 
@@ -34,7 +34,7 @@ I would like to learn:-
 
 ## Author
 
-- Website - [Add your name here]https://www.your-site.com
+- Website - https://justin-steen-hub.vercel.app
 - Frontend Mentor - @hexanne https://www.frontendmentor.io/profile/hexanne
 - Facebook - @justin.steen.254 https://www.facebook.com/justin.steen.254
 - Github - @hexanne https://www.github.com/hexanne
